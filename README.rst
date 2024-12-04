@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+MachineInsights
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Includes  Python library for reading and visualizing machine data
